@@ -9,10 +9,10 @@
   </a>
 </p>
 
-<div>
+<div align="center" >
   <a href="https://github.com/jonasmot">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jonasmot&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br&hide=prs&rank_icon=github&hide_border=true"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmot&langs_count=7&theme=radical&hide_border=true&layout=compact&hide_progress=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasmot&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br&hide=prs&rank_icon=github&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmot&langs_count=7&theme=radical&hide_border=true&layout=compact&hide_progress=true&locale=pt-br"/>
 </div>
     
 #
