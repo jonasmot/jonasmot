@@ -12,7 +12,13 @@
 
 <hr>
 
-<div style="display: inline_block">
+<p style="display: inline_block">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,html,css,javascript,ts" />
+  </a>
+ </p>
+ 
+<!--<div style="display: inline_block">
   <br>
   <img align="center" alt="jonas-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="jonas-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +27,7 @@
   <img align="center" alt="jonas-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="jonas-csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <br>
-</div>
+</div>-->
 
 <br>
 
