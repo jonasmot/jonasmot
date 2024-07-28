@@ -1,7 +1,12 @@
 # salve ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+<!--<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=jonas%20motta%20;desenvolvedor%20web%20;análise%20e%20desenvolvimento%20de%20sistemas%20;&center=true&width=440&height=50&color=f75c7e&vCenter=true&size=25"></a>
+</p>-->
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=jonas%20motta%20;desenvolvedor%20web%20;&center=true&width=440&height=50&color=f75c7e&vCenter=true&size=25"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&center=true&vCenter=true&width=445&height=60&lines=jonas+passos+motta;desenvolvedor+web;an%C3%A1lise+e+desenvolvimento+de+sistemas"/>
+  </a>
 </p>
 
 <div align="center" style="display: inline_block">
