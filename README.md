@@ -9,12 +9,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasmot&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs&rank_icon=github&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmot&langs_count=7&theme=radical&hide_border=true&layout=compact"/>
 </div>
-
-<hr>
-
-<p style="display: inline_block">
+    
+#
+    
+<p align="center" style="display: inline_block">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,html,css,javascript,ts" />
+    <img src="https://skillicons.dev/icons?i=ableton,python,cs,html,css,javascript,ts,ps,pr" />
   </a>
  </p>
  
@@ -29,8 +29,6 @@
   <br>
 </div>-->
 
-<br>
-
 ## 🔧 Ferramentas
 
 <div align="center" style="display: inline_block">
@@ -42,7 +40,7 @@
   <img align="center" alt="jonas-mvs" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
   <img align="center" alt="jonas-vsc" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="jonas-PostM" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img align="center" alt="jonas-Ps" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
+  <!--<img align="center" alt="jonas-Ps" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">-->
   <img align="center" alt="jonas-Angular" height="85" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="jonas-dotnet" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="jonas-dotnet" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
