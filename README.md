@@ -9,10 +9,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasmot&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs&rank_icon=github&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmot&langs_count=7&theme=radical&hide_border=true&layout=compact"/>
 </div>
-    
+
 <hr>
 
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
   <br>
   <img align="center" alt="jonas-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="jonas-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
