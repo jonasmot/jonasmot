@@ -50,3 +50,5 @@
   <img align="center" alt="jonas-dotnet" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="jonas-dotnet" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=synthwave&height=120&section=footer"/>
