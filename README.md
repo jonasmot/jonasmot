@@ -11,8 +11,8 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/jonasmot">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jonasmot&show_icons=true&theme=radical&count_private=true&locale=pt-br&hide=prs&rank_icon=github&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmot&langs_count=8&theme=radical&hide_border=true&layout=compact&hide_progress=true&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonasmot&show_icons=true&theme=radical&count_private=true&locale=pt-br&hide=prs&rank_icon=github&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmot&langs_count=8&theme=radical&hide_border=true&layout=compact&hide_progress=true&locale=pt-br"/>
 </div>
     
 #
