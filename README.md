@@ -39,7 +39,7 @@
 <div align="center" style="display: inline_block">
   <img align="center" alt="jonas-jupyter" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <!--<img align="center" alt="jonas-linux" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">-->
-  <img align="center" alt="jonas-anaconda" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
+  <!--<img align="center" alt="jonas-anaconda" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">-->
   <img align="center" alt="jonas-spyder" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg">
   <img align="center" alt="jonas-mvs" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
   <img align="center" alt="jonas-mvs" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
